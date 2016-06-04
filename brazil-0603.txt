@@ -1,0 +1,59 @@
+ 306/ 308  http://www.openstreetmap.org/way/409000590, Marcos Medeiros,
+ 306/ 308  http://www.openstreetmap.org/way/409000600, Marcos Medeiros,
+ 306/ 308  http://www.openstreetmap.org/way/409000601, Marcos Medeiros,
+ 306/ 308  http://www.openstreetmap.org/way/409000602, Marcos Medeiros,
+ 306/ 308  http://www.openstreetmap.org/way/395530793, Marcos Medeiros,
+ 308/1836  http://www.openstreetmap.org/way/303045216, Alexandrecw,
+ 309/ 323  http://www.openstreetmap.org/way/422035029, Marcos Medeiros,
+ 309/1197  http://www.openstreetmap.org/way/303056831, Alexandrecw,
+ 312/1376  http://www.openstreetmap.org/way/287801162, TarcisioImports,
+ 313/ 315  http://www.openstreetmap.org/way/391172442, Marcos Medeiros,
+ 314/2000  http://www.openstreetmap.org/way/400049095, Marcos Medeiros,
+ 314/ 316  http://www.openstreetmap.org/way/394384056, Marcos Medeiros,
+ 316/2000  http://www.openstreetmap.org/way/399069139, Marcos Medeiros, waterway
+ 318/ 693  http://www.openstreetmap.org/way/193355681, portal aventura, highway
+ 319/1790  http://www.openstreetmap.org/way/391919537, Narcélio de Sá,
+ 319/1789  http://www.openstreetmap.org/way/391919504, Narcélio de Sá,
+ 320/ 322  http://www.openstreetmap.org/way/394591077, Marcos Medeiros,
+ 323/1767  http://www.openstreetmap.org/way/303283218, Alexandrecw,
+ 324/ 326  http://www.openstreetmap.org/way/409001678, Marcos Medeiros,
+ 324/ 326  http://www.openstreetmap.org/way/409001177, Marcos Medeiros,
+ 325/2000  http://www.openstreetmap.org/way/399037020, Marcos Medeiros, waterway
+ 331/1810  http://www.openstreetmap.org/way/287801163, TarcisioImports,
+ 336/ 798  http://www.openstreetmap.org/way/317181004, BladeTC,
+ 338/ 340  http://www.openstreetmap.org/way/417526207, Marcos Medeiros,
+ 338/ 340  http://www.openstreetmap.org/way/417526165, Marcos Medeiros,
+ 340/2000  http://www.openstreetmap.org/way/390213491, Marcos Medeiros,
+ 343/1457  http://www.openstreetmap.org/way/93621980, Tarcisio Oliveira, waterway
+ 345/2000  http://www.openstreetmap.org/way/399062022, Marcos Medeiros, waterway
+ 349/ 351  http://www.openstreetmap.org/way/394581683, Marcos Medeiros,
+ 351/ 353  http://www.openstreetmap.org/way/408411383, Marcos Medeiros,
+ 351/ 353  http://www.openstreetmap.org/way/408408170, Marcos Medeiros,
+ 351/ 353  http://www.openstreetmap.org/way/408408180, Marcos Medeiros,
+ 351/ 353  http://www.openstreetmap.org/way/408411331, Marcos Medeiros,
+ 351/ 353  http://www.openstreetmap.org/way/408411358, Marcos Medeiros,
+ 352/ 354  http://www.openstreetmap.org/way/408826674, Marcos Medeiros,
+ 356/1576  http://www.openstreetmap.org/way/404713879, Marcos Medeiros, natural
+ 358/2000  http://www.openstreetmap.org/way/399060515, Marcos Medeiros, waterway
+ 362/ 366  http://www.openstreetmap.org/way/395555393, Marcos Medeiros,
+ 368/ 370  http://www.openstreetmap.org/way/409000540, Marcos Medeiros,
+ 368/ 370  http://www.openstreetmap.org/way/409000510, Marcos Medeiros,
+ 368/ 370  http://www.openstreetmap.org/way/409000520, Marcos Medeiros,
+ 378/ 747  http://www.openstreetmap.org/way/261706040, erickdeoliveiraleal, natural
+ 381/1163  http://www.openstreetmap.org/way/93621863, Tarcisio Oliveira, waterway
+ 384/2000  http://www.openstreetmap.org/way/399063735, Marcos Medeiros, waterway
+ 389/1839  http://www.openstreetmap.org/way/303053158, Alexandrecw,
+ 389/1710  http://www.openstreetmap.org/way/399776412, naoliv,
+ 391/1320  http://www.openstreetmap.org/way/389420547, Feldo,
+ 396/ 857  http://www.openstreetmap.org/way/331551370, Junior Intervales, boundary
+ 400/ 402  http://www.openstreetmap.org/way/395555458, Marcos Medeiros,
+ 407/ 868  http://www.openstreetmap.org/way/51798513, lurlrlrl,
+ 412/1011  http://www.openstreetmap.org/way/326129890, ElementoGEO, highway
+ 413/1653  http://www.openstreetmap.org/way/303056834, user_2499,
+ 429/ 431  http://www.openstreetmap.org/way/409002332, Marcos Medeiros,
+ 438/1041  http://www.openstreetmap.org/way/389420539, Feldo,
+ 459/1629  http://www.openstreetmap.org/way/422663675, Marcos Medeiros, waterway
+ 460/1083  http://www.openstreetmap.org/way/303056817, user_2499,
+ 461/ 596  http://www.openstreetmap.org/way/349892452, BladeTC,
+ 492/ 497  http://www.openstreetmap.org/way/395555479, Marcos Medeiros,
+ 493/ 495  http://www.openstreetmap.org/way/395263816, Marcos Medeiros,
